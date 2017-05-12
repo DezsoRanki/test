@@ -1,2 +1,3 @@
 add some tests
+<<<<<<< HEAD
 add some more
